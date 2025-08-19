@@ -10,7 +10,7 @@ It is designed to run locally on your laptop and be extendable to real drone har
 
 1. Install Python 3.10+
 2. Create & activate a venv
-3. `pip install -r requirements.txt`
+3. `pip install numpy scikit-learn matplotlib Pillow opencv-python`
 4. `python main.py`
 
 ### Example commands

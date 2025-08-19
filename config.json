@@ -1,0 +1,33 @@
+{
+  "field": {
+    "max_x": 4096,
+    "max_y": 4096,
+    "feet_per_cell": 1.0,
+    "origin_lat": 23.8103,
+    "origin_lon": 90.4125,
+    "orientation_deg": 0.0
+  },
+  "simulation": {
+    "seed": 42,
+    "obstacles": [
+      [
+        200,
+        200,
+        240,
+        260
+      ],
+      [
+        1000,
+        800,
+        1100,
+        900
+      ]
+    ]
+  },
+  "visualization": {
+    "neighborhood": 21
+  },
+  "database": {
+    "path": "afds.sqlite3"
+  }
+}
